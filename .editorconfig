@@ -1,4 +1,5 @@
 # Editor configuration, see https://editorconfig.org
+#ES OPCIONAL! Configuración del editor
 root = true
 
 [*]
